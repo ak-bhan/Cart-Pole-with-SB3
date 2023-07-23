@@ -38,7 +38,8 @@ This repository showcases Reinforcement Learning (RL) using Recurrent Neural Net
    - RNNs enable agents to handle partially observable environments, where only past observations are available for decision-making.
 
 **Results**
-![Comparison of Training Plots](./Downloads/ppo_curves.drawio)
+![Comparison of Training Plots](https://github.com/ak-bhan/Cart-Pole-with-SB3/assets/93557815/38040587-6d32-4e8d-b239-468c584fe818)
+
 
 **Acknowledgments**:
 The code in this repository is built upon Stable Baselines 3 and Gym environments, allowing for an easy and efficient RL experimentation.
