@@ -40,7 +40,3 @@ This repository showcases Reinforcement Learning (RL) using Recurrent Neural Net
 
 **Acknowledgments**:
 The code in this repository is built upon Stable Baselines 3 and Gym environments, allowing for an easy and efficient RL experimentation.
-
-**Contact Information**:
-For any questions or suggestions, feel free to contact the project owner [Akash Bhandari](mailto:akashlra10@gmail.com).
-
