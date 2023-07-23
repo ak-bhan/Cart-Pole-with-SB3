@@ -1,1 +1,1 @@
-# Cart-Pole-with-SB3
+# RL-with-RNN-for-CartPole
