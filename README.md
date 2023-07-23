@@ -37,6 +37,8 @@ This repository showcases Reinforcement Learning (RL) using Recurrent Neural Net
    - In RL, RNNs can help agents learn from a history of observations, enabling them to make informed decisions based on past experiences.
    - RNNs enable agents to handle partially observable environments, where only past observations are available for decision-making.
 
+**Results**
+![Comparison of Training Plots](./Downloads/ppo_curves.drawio)
 
 **Acknowledgments**:
 The code in this repository is built upon Stable Baselines 3 and Gym environments, allowing for an easy and efficient RL experimentation.
